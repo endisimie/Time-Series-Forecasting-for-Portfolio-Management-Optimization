@@ -1,5 +1,7 @@
 # Time Series Forecasting and Portfolio Optimization
+
 This project demonstrates a complete financial analysis workflow, from data acquisition and preprocessing to advanced time series forecasting and portfolio optimization. It's built to guide users through the process of developing a data-driven investment strategy and backtesting its performance on historical data.
+
 ---
 
 # Features 🌟
@@ -11,6 +13,7 @@ Time Series Forecasting: Develops and compares both a statistical model (ARIMA) 
 Portfolio Optimization: Utilizes Modern Portfolio Theory (MPT) to construct an optimal portfolio by combining a forecasted asset with historical data-driven assets.
 
 Strategy Backtesting: Simulates the performance of the optimized portfolio against a simple benchmark to validate the strategy's viability.
+
 ---
 
 ## 📦 Assets Used
