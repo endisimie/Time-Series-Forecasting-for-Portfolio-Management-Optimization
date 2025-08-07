@@ -60,7 +60,6 @@ Data collected using the `yfinance` Python API from **July 1, 2015 to July 31, 2
 
 ## 📊 Tools & Libraries
 
-- Python 3.11
 - pandas, numpy, matplotlib, seaborn
 - yfinance
 - statsmodels / pmdarima
@@ -69,24 +68,6 @@ Data collected using the `yfinance` Python API from **July 1, 2015 to July 31, 2
 - TensorFlow / Keras
 
 ---
-
-## 🧪 Results Summary
-
-| Metric       | ARIMA     | LSTM      |
-|--------------|-----------|-----------|
-| MAE          | [value]   | [value]   |
-| RMSE         | [value]   | [value]   |
-| MAPE         | [value]   | [value]   |
-
-- **Recommended Portfolio Weights:**
-  - TSLA: [x]%
-  - SPY: [y]%
-  - BND: [z]%
-- **Expected Annual Return:** [value]%
-- **Portfolio Sharpe Ratio:** [value]
-
----
-
 
 ## 🚀 How Run Locally
 
