@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy==1.26.4
+matplotlib
+statsmodels
+pypfopt
+tensorflow
+scikit-learn
+pmdarima
+PyPortfolioOpt
+seaborn
